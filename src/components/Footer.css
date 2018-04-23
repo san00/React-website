@@ -1,0 +1,15 @@
+.footer {
+	position:fixed;
+	bottom: 0;
+  /* right: 0;
+  left: 0; */
+	width: 100%;
+	/* height: auto; */
+	line-height: 40px;
+	background-color: #f5f5f5;
+  text-align: center;
+}
+.footer-icons{
+  padding: 5px;
+  color: #cabcab;
+}
