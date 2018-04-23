@@ -1,7 +1,7 @@
 import React, {Component} from "react"
 import {Link} from "react-router-dom";
 import{Grid, Row, Image, Col } from "react-bootstrap";
-import "./work.css";
+import "./Work.css";
 
 export default class work extends Component {
   render() {
