@@ -1,10 +1,11 @@
 import React, {Component} from "react"
-import {Grid, Image, Col, PageHeader, Row, Button} from "react-bootstrap";
-import "./about.css";
+import {Grid, Image, Col, Row, Button} from "react-bootstrap";
+import "./About.css";
 
 export default class about extends Component {
   render() {
-    return (<div>
+    return (
+      <div>
       <Grid>
         <Col xs={12} sm={8} smOffset={2} md={8} className="about-text">
           <h3>Hello this is about me</h3>
