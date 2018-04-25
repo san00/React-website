@@ -1,0 +1,21 @@
+.about-text{
+  margin-bottom: 3em;
+}
+
+.profile-pic{
+ width: 50%;
+ float: left;
+margin: 0 1em 1em 0;
+}
+
+.icons{
+  padding: 5px;
+  color: #cabcab;
+
+}
+.services-header{
+padding-top: 4em;
+}
+.services{
+  padding: 2em;
+}
