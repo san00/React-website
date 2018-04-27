@@ -1,11 +1,12 @@
 import React, {Component} from "react"
-import {Grid, Image, Col, Row, Button} from "react-bootstrap";
+import {Link} from "react-router-dom";
+import {Grid, Image, Col, Button} from "react-bootstrap";
 import "./MiniAbout.css";
 
 export default class miniabout extends Component {
   render() {
     return(
-      <div class="bckgrnd">
+      <div class="miniabout-bckgrnd">
       <Grid>
         <Col xs={12} sm={8} smOffset={2} md={8} className="miniabout-text">
           <h3>Hello this is about me</h3>
@@ -18,6 +19,11 @@ export default class miniabout extends Component {
           <span class="mini-icons fab fa-twitter"></span>
           <span class="mini-icons fab fa-github"></span>
           <span class="mini-icons fab fa-dribbble"> </span>
+        </Col>
+        <Col xs={12} smOffset={9}>
+          <Link to="/About">
+          <Button>Learn more</Button>
+          </Link>
         </Col>
       </Grid>
       </div>
