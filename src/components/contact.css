@@ -1,0 +1,17 @@
+.contact-header {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.contact-text {
+  color: #8c8c8c;
+  padding: 1em 0 2em 0;
+}
+.contact-pic{
+  width: 100%;
+  padding-top: 4em;
+}
+.c-icons{
+  padding-bottom: 1em;
+  color: #cabcab;
+}
