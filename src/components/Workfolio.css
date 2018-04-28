@@ -1,0 +1,21 @@
+.folio-header {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.folio-text {
+  color: #8c8c8c;
+  padding-bottom: 2em;
+}
+
+.folio-roles {
+  color: #8c8c8c;
+}
+
+.folio-pics {
+  width: 100%;
+}
+
+.pic1 {
+  padding-top: 4em;
+}
