@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import {Grid, Image, Col, Row, Button} from "react-bootstrap";
+import {Grid, Image, Col, Button} from "react-bootstrap";
 import "./About.css";
 
 export default class about extends Component {
@@ -47,6 +47,7 @@ export default class about extends Component {
             <Button>Learn more</Button>
           </Col>
       </Grid>
-    </div>)
+    </div>
+    )
   }
 }
