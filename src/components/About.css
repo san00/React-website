@@ -1,7 +1,6 @@
 .about-text{
   margin-bottom: 3em;
 }
-
 .profile-pic{
  width: 50%;
  float: left;
@@ -18,4 +17,5 @@ padding-top: 4em;
 }
 .services{
   padding: 2em;
+  background-color: #ddd2c5;
 }

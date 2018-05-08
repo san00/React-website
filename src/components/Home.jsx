@@ -10,6 +10,7 @@ export default class home extends Component {
       <Grid>
         <Jumbotron>
           <h2>Welcome to ideas</h2>
+          <p>A demo portfolio site built with React, React router & React bootstrap</p>
         </Jumbotron>
         <Row>
             <Work/> {/* Use component in layout */}
