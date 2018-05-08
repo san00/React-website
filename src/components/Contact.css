@@ -9,6 +9,14 @@
 }
 
 .c-icons {
-  padding-bottom: 1em;
+  padding-bottom: 0.5em;
   color: #cabcab;
+}
+.c-info{
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+}
+.contact-pic{
+  width: 50%;
+  margin-top: 1em;
 }
